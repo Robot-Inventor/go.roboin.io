@@ -1,5 +1,10 @@
 [
     {
+        "source": "/",
+        "destination": "https://roboin.io",
+        "code": 302
+    },
+    {
         "source": "/sbs",
         "destination": "https://shadowban-scanner.roboin.io/",
         "code": 302
