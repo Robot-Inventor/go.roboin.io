@@ -1,0 +1,12 @@
+[
+    {
+        "source": "/sbs",
+        "destination": "https://shadowban-scanner.roboin.io/",
+        "code": 302
+    },
+    {
+        "source": "/sbs/download",
+        "destination": "https://shadowban-scanner.roboin.io/download",
+        "code": 302
+    }
+]

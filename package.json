@@ -1,0 +1,25 @@
+{
+  "name": "go.roboin.io",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "script/build.ts",
+  "scripts": {
+    "build": "tsx ./src/ts/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robot-Inventor/go.roboin.io.git"
+  },
+  "author": "Robot-Inventor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robot-Inventor/go.roboin.io/issues"
+  },
+  "homepage": "https://github.com/Robot-Inventor/go.roboin.io#readme",
+  "devDependencies": {
+    "@robot-inventor/tsconfig-base": "^1.1.0",
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2"
+  }
+}
