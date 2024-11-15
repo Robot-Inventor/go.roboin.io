@@ -13,5 +13,10 @@
         "source": "/sbs/download",
         "destination": "https://shadowban-scanner.roboin.io/download",
         "code": 302
+    },
+    {
+        "source": "/sbs/source",
+        "destination": "https://github.com/Robot-Inventor/shadowban-scanner/",
+        "code": 302
     }
 ]
