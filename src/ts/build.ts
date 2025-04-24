@@ -1,4 +1,4 @@
-import links from "../json/links.json";
+import links from "../json/links.json" with { type: "json" };
 import fs from "node:fs/promises";
 import fsSync from "node:fs";
 import path from "node:path";
