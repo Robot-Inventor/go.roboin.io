@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Robot-Inventor/go.roboin.io#readme",
   "devDependencies": {
     "@robot-inventor/tsconfig-base": "^7.0.0",
-    "@types/node": "^25.0.2",
+    "@types/node": "^26.5.0",
     "typescript": "^7.0.0"
   }
 }
